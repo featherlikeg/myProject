@@ -1,0 +1,16 @@
+@import "nomalize.css";
+
+table {
+  width: 95%;
+  margin: auto;
+}
+table tr {}
+table tr th {
+  background-color: #999999;
+  color: #fff;
+  padding: 5px;
+}
+table tr td {
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 12px;
+}
